@@ -1,11 +1,6 @@
 # TIPS
 
 
-Look at the domains 
-Break down each one of them. This will help you prioritize your study efforts.
-Assess how much time you can realistically dedicate to studying each week
-Create a schedule that allows for consistent progress without burnout. 
-
 ### Resources and Training
 
 - **LabsDigest**: Provides labs for hands-on practice [link](https://labsdigest.com/).
@@ -27,15 +22,15 @@ Create a schedule that allows for consistent progress without burnout.
 
 - **Leo Laporte/TWIT and Steve Gibson**: "Leo Laporte/TWIT or even Steve Gibson (although a somewhat hard to follow guy. An obvious high IQ type)"
   
-- **Study Materials**: "Study bank by Chapple and seidl, prof dion practice quizzes, Quizlet to memorize port numbers and dojolabs to work on the simulated labs".
+- **Study Materials**: "Prof dion practice quizzes, Quizlet to memorize port numbers and dojolabs to work on the simulated labs".
 
 - **Things to memorize**: "Immediately write down your notes from the flash cards. Especially the OSI model and ports, how to calculate ARO, SLE, EF and Cryptography sections. Remember: integrity=hash. And the CIA TRIAD, and AES=ccmp".
 
-- **About multiple choice questions**: "I will skipped the Performance based questionBQ's [at the beginning of the test] like everyone says to".
+- **About multiple choice questions**: "I will skipped the Performance based questionBQ's at the beginning of the test like everyone says to".
 
 ## Things to Look Into
 
-- **Exam Objectives**: Refer to the official CompTIA guide for SY0-701 exam objectives [link](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf).
+- **Exam Objectives**: Refer to the official CompTIA guide for SY0-701 exam objectives [link](https://assets.ctfassets.net/82ripq7fjls2/6TYWUym0Nudqa8nGEnegjG/0f9b974d3b1837fe85ab8e6553f4d623/CompTIA-Security-Plus-SY0-701-Exam-Objectives.pdf).
 
 ## Study Material
 
