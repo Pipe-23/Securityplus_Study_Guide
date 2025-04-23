@@ -39,6 +39,12 @@
   - Port Names and Numbers: [link](https://quizlet.com/343931988/port-names-and-numbers-security-501-flash-cards/)
   - Tough Sec Terms: [link](https://quizlet.com/648931527/tough-sec-terms-flash-cards/)
 
+## Resources I used
+GCGA Book
+CompTIA Security+ Study Guide
+Professor Messer's Course
+[Domain 1](https://www.youtube.com/watch?v=SmzTNZwJnIw)
+
 -----
 Hope this guide will help you in the process, if you have a good recommendations or new material do not hesitate to add.
 
