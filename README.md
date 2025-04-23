@@ -1,4 +1,4 @@
-# TIPS
+# Cert Study Guide
 
 
 ### Resources and Training
