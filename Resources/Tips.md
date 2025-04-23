@@ -20,7 +20,7 @@ Create a schedule that allows for consistent progress without burnout.
 
 ### Books
 
-- **Chapple&Seidl** CompTIA Security+ Certification Kit: Exam SY0-701 (Sybex Study Guide)
+- **Chapple&Seidl**:  CompTIA Security+ Certification Kit: Exam SY0-701 (Sybex Study Guide)
   
 
 ### CompTIA community advice
